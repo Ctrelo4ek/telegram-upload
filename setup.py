@@ -116,7 +116,7 @@ classifiers.extend([
 
 setup(
     name=PACKAGE_NAME,
-    version=get_package_version(module),
+    version="1.0",
     packages=packages,
     provides=modules,
     scripts=scripts,
